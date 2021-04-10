@@ -1,0 +1,9 @@
+name: GeikYukseltme
+main: me.geik.arti.basma.Main
+version: 2.0
+author: Geik
+api-version: 1.13
+soft-depend: [TitleManager]
+commands:
+  kutsama:
+     description: arti
